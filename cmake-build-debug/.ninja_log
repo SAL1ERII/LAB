@@ -1,0 +1,14 @@
+# ninja log v5
+2	212	1700414230402220571	CMakeFiles/untitled.dir/Individual_task.c.o	16d21d51acf30d58
+2	204	1700415237050832214	CMakeFiles/untitled.dir/Inserting_a_new_element.c.o	68d6e7c5aa190b01
+2	204	1700415237050827088	CMakeFiles/untitled.dir/Initializing_an_array.c.o	25a99e2bb07d6e54
+178	212	1700418797496395659	untitled	4472fac826abaced
+2	212	1700414230402245946	CMakeFiles/untitled.dir/Array_output.c.o	c43c43b67d1e6720
+2	204	1700415237050828339	CMakeFiles/untitled.dir/Deleting_an_element.c.o	5cab0f678bdf53d7
+1	177	1700418797461218744	CMakeFiles/untitled.dir/main.c.o	6820fb2b80c0172c
+1	204	1700465258711029649	CMakeFiles/untitled.dir/Individual_task.c.o	16d21d51acf30d58
+0	29	1700465342488454455	CMakeFiles/untitled.dir/main.c.o	6820fb2b80c0172c
+0	29	1700466313587760561	CMakeFiles/untitled.dir/Individual_task.c.o	16d21d51acf30d58
+29	59	1700466313618314079	untitled	4472fac826abaced
+1	188	1701072529078124476	CMakeFiles/untitled.dir/main.c.o	6820fb2b80c0172c
+188	220	1701072529109732210	untitled	4472fac826abaced
